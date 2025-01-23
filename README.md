@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chan%20Ho%20Seo&fontSize=90&animation=twinkling)
 
 
-
-
-<a href="https://www.instagram.com/jjic_sae_/" target="_blank">
 <img src="https://img.shields.io/badge/studychanho0717@gmail.com-405DE6?style=social&logo=Gmail&logoColor=#EA4335"/>
 <img src="https://img.shields.io/badge/Python-405DE6?style=social&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Pytorch-405DE6?style=social&logo=PyTorch&logoColor=#EE4C2C"/>

@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Chan%20Ho%20Seo&fontSize=90&animation=twinkling)
 
-### Hi there 👋
-
 
 
 
